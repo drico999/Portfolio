@@ -2,7 +2,7 @@
 
 > Personal portfolio website for Andries Tshilidzi Mokono, Graduate Software Engineer trained at WeThinkCode_.
 
-🌐 **Live site:** [drico999.github.io](https://drico999.github.io)
+🌐 **Live site:** [(https://fabulous-selkie-da2ae5.netlify.app/)]
 
 ---
 
