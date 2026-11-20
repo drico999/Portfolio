@@ -31,7 +31,7 @@ Pure HTML, CSS, and vanilla JavaScript — no frameworks, no build tools. Deploy
 | Axiom Platform | Full-Stack | [Live](https://axiom-jkqr.onrender.com) |
 | Robot Worlds CLI Game | Java, SQL, Docker | GitHub |
 | Sneaker E-commerce | Full-Stack, SQL | GitHub |
-| Business Operations Dashboard | Python, SQLite, Tableau | GitHub |
+| Business Operations Dashboard | Python, SQL, Tableau | GitHub |
 
 ## Deploy to GitHub Pages
 
